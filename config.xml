@@ -19,6 +19,6 @@ Jonathan Raymundo Magallanes Martinez
 <plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
 
 
-
+<access origin=".*"/>
 
 </widget>
