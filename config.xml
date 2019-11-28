@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.centinela271119"
+    version   = "1.0.0">
+
+<name>CENTINIELA</name>
+
+<description>
+Proyecto: Centinela
+</description>
+
+<author href="" email="jonarmm20@gmail.com">
+Jonathan Raymundo Magallanes Martinez
+</author>
+
+    
+<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
+<plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+
+
+
+
+</widget>
